@@ -1,0 +1,14 @@
+python
+tensorflow
+pytorch
+opencv-python
+numpy
+scikit-learn
+gdal
+rasterio
+streamlit
+flask
+xgboost
+prophet
+pymongo
+firebase-admin
